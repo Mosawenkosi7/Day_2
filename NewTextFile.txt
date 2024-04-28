@@ -1,0 +1,4 @@
+This is the file we added on Github, we will then push it to the local reposiroty 
+first we will use git fetch, then check out this branch 
+then switch back to main 
+then finally use git pull 
