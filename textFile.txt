@@ -1,0 +1,6 @@
+Hello, this is task 2, i just created a new repository called Day 2
+Im also going to create remote repository where i will push this file
+The commands i will use here include
+git status - to check if i have any changes on the files
+git add - this will add files to the staging area
+git commit -m "" - will add the files to a repository
